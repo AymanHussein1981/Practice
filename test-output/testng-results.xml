@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-01T20:57:47 CDT" name="Default suite" finished-at="2024-10-01T20:58:10 CDT" duration-ms="22853">
+    <groups>
+    </groups>
+    <test started-at="2024-10-01T20:57:47 CDT" name="Default test" finished-at="2024-10-01T20:58:10 CDT" duration-ms="22853">
+      <class name="class_2.A002_Config_Prop">
+        <test-method is-config="true" signature="Config()[pri:0, instance:class_2.A002_Config_Prop@79e4c792]" started-at="2024-10-01T20:57:47 CDT" name="Config" finished-at="2024-10-01T20:57:47 CDT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Config -->
+        <test-method is-config="true" signature="init()[pri:0, instance:class_2.A002_Config_Prop@79e4c792]" started-at="2024-10-01T20:57:47 CDT" name="init" finished-at="2024-10-01T20:57:54 CDT" duration-ms="7248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="loginplusAssertion()[pri:0, instance:class_2.A002_Config_Prop@79e4c792]" started-at="2024-10-01T20:57:54 CDT" name="loginplusAssertion" finished-at="2024-10-01T20:58:06 CDT" duration-ms="11673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginplusAssertion -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:class_2.A002_Config_Prop@79e4c792]" started-at="2024-10-01T20:58:06 CDT" name="Teardown" finished-at="2024-10-01T20:58:10 CDT" duration-ms="3815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- class_2.A002_Config_Prop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
